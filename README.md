@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! 👋
 
 I'm T, an Aspiring Security Analyst!
 
