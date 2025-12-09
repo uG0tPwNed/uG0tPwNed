@@ -11,3 +11,6 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 
 ## 🛠️ Tools & Skills
 Linux • Bash • Wireshark • Nmap • Splunk • Git • Python (beginner)
+
+## 🎯 Goal
+Become an entry-level **Security Analyst / SOC Analyst**.
