@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm T, an Aspiring Security Analyst!
+I'm Ant, an Aspiring Security Analyst!
 
 Currently completing the **Google Cybersecurity Professional Certificate** and building hands-on experience in defensive security.
 
