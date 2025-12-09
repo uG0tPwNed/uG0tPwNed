@@ -1,27 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">⚡ Aspiring Security Analyst</h1>
+# 👋 Hi, I'm T, an Aspiring Security Analyst!
 
-<p align="center">
-  <em>Google Cybersecurity Student • SOC Analyst Track • Blue Team Enthusiast</em>
-</p>
+Currently completing the **Google Cybersecurity Professional Certificate** and building hands-on experience in defensive security.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square" />
-</p>
+## 🔐 What I Do
+- Learning SOC fundamentals  
+- Practicing threat analysis & SIEM investigations  
+- Exploring Linux, Bash, and networking essentials  
 
----
-
-## 🚀 Current Focus
-- Google Cybersecurity Professional Certificate  
-- SIEM investigations & log analysis  
-- Network traffic analysis  
-- Bash scripting & Linux security fundamentals  
-
----
-
-## 🧰 Tech & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github" />
-  <img src="https://skillicons.dev/icons?i=wireshark" />
-</p>
+## 🛠️ Tools & Skills
+Linux • Bash • Wireshark • Nmap • Splunk • Git • Python (beginner)
