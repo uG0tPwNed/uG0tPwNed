@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**uG0tPwNed/uG0tPwNed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">⚡ Aspiring Security Analyst</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>Google Cybersecurity Student • SOC Analyst Track • Blue Team Enthusiast</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square" />
+</p>
+
+---
+
+## 🚀 Current Focus
+- Google Cybersecurity Professional Certificate  
+- SIEM investigations & log analysis  
+- Network traffic analysis  
+- Bash scripting & Linux security fundamentals  
+
+---
+
+## 🧰 Tech & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=wireshark" />
+</p>
