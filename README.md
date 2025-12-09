@@ -18,5 +18,5 @@ Become an entry-level **Security Analyst / SOC Analyst**.
 ## 🎯 Fun Facts
 - I have two dogs
 - I don't like coffee
-- Spend most free time researching the blockchain using platforms like Arkham, CoinMarketCap, CertiK, fiatleak, ViewBlock
+- Spend most free time researching the blockchain
 - **Hobbies**: anime, chess, gym, languages, valorant
