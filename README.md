@@ -1,4 +1,4 @@
-## Hey there! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F730&width=435&lines=Hey+there!+I'm+Anthony+(uG0tPwNed))](https://git.io/typing-svg)
 
 I'm Ant, an Aspiring Security Analyst based in the US.
 
