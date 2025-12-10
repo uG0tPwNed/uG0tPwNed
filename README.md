@@ -17,6 +17,6 @@ Become an entry-level **Security Analyst / SOC Analyst**.
 
 ## 🔐 Fun Facts
 - I have two dogs
-- I don't like coffee
+- I don't like coffee or soda
 - Spend most free time researching the blockchain
 - **Hobbies**: anime, chess, gym, languages, valorant
