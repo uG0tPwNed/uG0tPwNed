@@ -1,6 +1,6 @@
 ## Hey there! 👋
 
-I'm Ant, an Aspiring Security Analyst based in the United States.
+I'm Ant, an Aspiring Security Analyst based in the US.
 
 Currently completing the **Google Cybersecurity Professional Certificate** and building hands-on experience in defensive security.
 
