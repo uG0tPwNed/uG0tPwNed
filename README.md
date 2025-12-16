@@ -7,7 +7,8 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 ## 💻 What I Do
 - Learning SOC fundamentals  
 - Practicing threat analysis & SIEM investigations  
-- Exploring Linux, Bash, and networking essentials  
+- Exploring Linux, Bash, and networking essentials
+- Work on projects here from time to time
 
 ## 🛠️ Tools & Skills
 Linux • Bash • Wireshark • Nmap • Splunk • Git • Dune • Python (beginner)
