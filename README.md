@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F730&width=435&lines=Hey+there!+I'm+Anthony+(uG0tPwNed))](https://git.io/typing-svg)
 
-Most call me Ant, an Aspiring Security Analyst based in the US.
+Most call me Ant, a Banker based in the US.
 
 Currently completing the **Google Cybersecurity Professional Certificate** and building hands-on experience in defensive security.
 
@@ -13,7 +13,7 @@ Currently completing the **Google Cybersecurity Professional Certificate** and b
 Linux • Bash • Wireshark • Nmap • Splunk • Git • Dune • Python (beginner)
 
 ## 🎯 Goal
-Become an entry-level **Security Analyst / SOC Analyst**.
+Become an entry-level **Security Analyst / SOC Analyst** or dive into investments as a **Financial Advisor**.
 
 ## 🔐 Fun Facts
 - I have two dogs
