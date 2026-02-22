@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=18F730&width=435&lines=Hey+there!+I'm+Anthony+(uG0tPwNed))](https://git.io/typing-svg)
 
-Most call me Ant, a Banker based in the US.
+Most call me Toni, a Banker based in the US.
 
 Recently completed the **Google Cybersecurity Professional Certificate** and building hands-on experience in defensive security.
 
