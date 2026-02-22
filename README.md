@@ -2,7 +2,7 @@
 
 Most call me Ant, a Banker based in the US.
 
-Currently completing the **Google Cybersecurity Professional Certificate** and building hands-on experience in defensive security.
+Recently completed the **Google Cybersecurity Professional Certificate** and building hands-on experience in defensive security.
 
 ## 💻 What I Do
 - Learning SOC fundamentals  
